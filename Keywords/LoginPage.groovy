@@ -22,7 +22,7 @@ public class LoginPage {
 	
 	public void firstMethod() {
 		
-		println("This is demo classs and method for login page")
+		println("This is demo classs and method for login page");
 	}
 	
 }
