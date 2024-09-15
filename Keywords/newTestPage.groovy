@@ -18,11 +18,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 
 import internal.GlobalVariable
 
-public class LoginPage {
+public class newTestPage {
 	
-	public void firstMethod() {
-		
-		println("This is demo classs and method for login page");
+	//this a comment line  arg
+	
+	def abc() {
+		println("this is 1st change")
 	}
-	
 }
